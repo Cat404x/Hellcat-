@@ -79,6 +79,3 @@ GITHUB_TOKEN=your_github_token
 FACEBOOK_ACCESS_TOKEN=your_facebook_access_token
 INSTAGRAM_USERNAME=your_instagram_username
 INSTAGRAM_PASSWORD=your_instagram_password
-```
-
-Please add these files and updates to your repository by committing the changes.
