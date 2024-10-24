@@ -7,5 +7,4 @@ Hellcat is a script that searches for specific keywords across multiple social m
 1. Clone the repository:
    ```sh
    git clone https://github.com/Cat404x/Hellcat-.git
-    
-pip install -r requirements.txt
+   cd Hellcat-
