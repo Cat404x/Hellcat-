@@ -1,6 +1,3 @@
-
-
-```markdown
 # Hellcat
 
 Hellcat is a script that searches for specific keywords across multiple social media platforms and saves the results to a CSV file.
@@ -15,6 +12,13 @@ Before setting up Hellcat, ensure you have the following installed:
 - Python 3.8 or higher
 - pip (Python package installer)
 - Git
+
+## Setup
+
+1. Clone the repository:
+   ```sh
+   git clone https://github.com/Cat404x/Hellcat-.git
+   cd Hellcat-
 
 ## Setup
 
