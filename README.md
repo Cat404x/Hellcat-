@@ -20,13 +20,6 @@ Before setting up Hellcat, ensure you have the following installed:
    git clone https://github.com/Cat404x/Hellcat-.git
    cd Hellcat-
 
-## Setup
-
-1. Clone the repository:
-   ```sh
-   git clone https://github.com/Cat404x/Hellcat-.git
-   cd Hellcat-
-   ```
 
 2. Create a virtual environment and activate it:
    ```sh
