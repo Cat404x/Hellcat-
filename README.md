@@ -1,4 +1,4 @@
-Here is an updated version of your `README.md` file with the additional sections:
+
 
 ```markdown
 # Hellcat
